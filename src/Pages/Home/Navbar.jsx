@@ -34,8 +34,8 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
-      <div>
-        <img src="./image/logo.svg" alt="logoipsum" />
+      <div className="logo">
+       Etieno<span className="initial">abasi</span>
       </div>
       <div className={`nav__hamburger ${navActive ? "active" : ""}`} onClick={toggleNav}
       >

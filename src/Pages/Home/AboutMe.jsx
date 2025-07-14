@@ -9,10 +9,11 @@ export default function AboutMe() {
         <p className="section--title">About</p>
         <h1 className="skills-section-heading">About Me</h1>
         <p className="hero--section--description">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quas aperiam voluptatum aut! Repellendus dicta delectus totam provident veritatis architecto quam consequuntur quas tempora sint. Tempore perferendis porro enim minima?
+          Hi! I'm Etienoabasi, a frontend developer with a growing passion for creating clean, responsive, and user-focused web experiences. I specialize in HTML5, CSS3, and JavaScript, and I'm currently expanding my skills in React.js to build more dynamic and interactive interfaces
+          I enjoy learning by doing building projects, debugging real problems, and seeing how small design choices can improve user experience. Whether I'm working on a portfolio site or contributing to a team project, I bring attention to detail, a strong work ethic, and a deep desire to grow in this field.
         </p>
         <p className="hero--section-description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut alias, voluptatum, ea sequi consequuntur vel, sed facere eaque earum
+           I'm actively looking for internship opportunities where I can contribute, collaborate, and gain hands-on experience from experienced developers.
         </p>
        </div>
       </div>
