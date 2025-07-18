@@ -10,7 +10,7 @@ export default function HeroSection() {
           Developer
         </h1>
         <p className="hero--section-description">
-          Hi, I'm Etienoabasi Asangag a frontend developer passionate about building responsive,
+          Hi, I'm Etienoabasi Asanga a frontend developer passionate about building responsive,
           <br /> user-friendly websites using HTML, CSS, JavaScript, and React.
         </p>
       </div>
