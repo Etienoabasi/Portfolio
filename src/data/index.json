@@ -2,9 +2,26 @@
   "skills": [
     {
       "id": "1",
-      "src": "/image/product-chain-1.png",
-      "title": "Front-End",
-      "description": "LoremLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac feugiat nulla. Maecenas accumsan arcu"
+      "src": "/image/icons8-html-48.png",
+      "title": "HTML",
+      "description": "I use HTML to create the foundational structure of web pages. It helps define the content and layout of websites including headings, paragraphs, links, images, and forms. HTML is the backbone of all web development, ensuring that content is properly organized and accessible."
+    },{
+      "id": "2",
+      "src": "/image/icons8-css-48.png",
+      "title": "CSS",
+      "description": "CSS allows me to style and design web pages to make them visually appealing and responsive. I apply CSS for layout, colors, fonts, animations, and responsive design using modern techniques like Flexbox, Grid, and media queries. I also work with CSS frameworks like Tailwind CSS and Bootstrap to speed up development."
+    },
+    {
+      "id": "3",
+      "src": "/image/icons8-js-50.png",
+      "title": "Javascript",
+      "description": "JavaScript brings interactivity to web pages. I use it to build dynamic user experiences from form validations and animations to complex logic and API integrations. My focus is on writing clean, modular, and scalable JavaScript (ES6+) that enhances functionality and performance."
+    },
+    {
+      "id": "4",
+      "src": "/image/icons8-react-40.png",
+      "title": "React",
+      "description": "React is my go-to JavaScript library for building fast, modern, and component-based web applications. I build reusable UI components, manage state effectively using hooks, and create seamless single page applications. I also work with tools like React Router, Axios, and Context API for real world projects."
     }
   ],
   "portfolio": [
